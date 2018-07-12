@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Livro Material Design</string>
+    <string name="heroes_disponiveis">Heróis disponivéis</string>
+    <string name="batman_com_armadura">Batman com Armadura</string>
+    <string name="descri_o">Descrição:</string>
+    <string name="nome">Nome:</string>
+    <string name="imagem_do_her_i">Imagem do herói</string>
+</resources>
